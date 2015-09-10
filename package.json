@@ -1,6 +1,6 @@
 {
   "name": "promise-or",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "The OR (||) operator for promises",
   "main": "src/index.js",
   "scripts": {
